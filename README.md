@@ -1,8 +1,85 @@
+<h1 align="center">Hi 👋, I'm Dul</h1>
+<h3 align="center">iOS Developer Learner from Cambodia 🇰🇭</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Learning+SwiftUI;Learning+Firebase;Learning+React+%26+Next.js;Building+Projects+Everyday" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **SwiftUI, Firebase, React, and Next.js**
+- 📱 Building iOS apps with SwiftUI
+- 💻 Interested in Frontend & Mobile Development
+- 🎯 Goal: Become a professional iOS Developer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,firebase,react,nextjs,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dulkh91&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulkh91&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dulkh91&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📱 SwiftUI Projects
+- Todo App with Firebase
+- Slot Machine App
+- Movie Search App
+
+### 🌐 Web Projects
+- Tailor Shop Management System using SvelteKit & MongoDB Atlas
+- Full-stack web application built with SvelteKit and MongoDB Atlas
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Dulkh91">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ Thanks for visiting my profile ⭐️
+</p>
+
+
+
+
+
+
+
+
 <h3 align="center">Ros Dul</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/dul-ros-5a997133">linkedin</a>.
-    <a href="https://portfolio-itdul.vercel.app/">Website</a>.
+    <a href="www.linkedin.com/in/dul-ros-5a997133">linkedin</a>.
+     <a href="https://portfolio-itdul.vercel.app/">Website</a>.
     <a href="https://www.youtube.com/@Angkorme">Youtube</a>
 </p>
 
