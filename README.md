@@ -1,8 +1,8 @@
 <h3 align="center">Ros Dul</h3>
 
 <p align="center">
-    <a href="www.linkedin.com/in/dul-ros-5a997133">linkedin</a>.
-     <a href="https://portfolio-itdul.vercel.app/">Website</a>.
+    <a href="https://www.linkedin.com/in/dul-ros-5a997133">linkedin</a>.
+    <a href="https://portfolio-itdul.vercel.app/">Website</a>.
     <a href="https://www.youtube.com/@Angkorme">Youtube</a>
 </p>
 
